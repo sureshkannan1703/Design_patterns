@@ -1,2 +1,1 @@
-# Design_patterns
-Store design pattern notes here.
+Master branch has Design pattern implementations & example class files.
